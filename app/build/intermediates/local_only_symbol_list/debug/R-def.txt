@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+color purple_500
+color white
+drawable ic_menu
+id action_configuracion
+id action_perfil
+id action_salir
+id toolbar
+layout activity_main
+menu menu_toolbar
+string app_name
+style AppTheme

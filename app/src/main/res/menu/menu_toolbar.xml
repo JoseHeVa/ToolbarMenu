@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Guardar en res/menu/menu_toolbar.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_perfil"
+        android:title="Perfil"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_configuracion"
+        android:title="Configuración"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_salir"
+        android:title="Salir"
+        app:showAsAction="never" />
+
+</menu>

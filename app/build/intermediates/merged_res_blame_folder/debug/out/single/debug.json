@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.toolbarmenu.app-merged_res-31:/drawable_ic_menu.xml.flat",
+        "source": "com.example.toolbarmenu.app-main-33:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.example.toolbarmenu.app-merged_res-31:/menu_menu_toolbar.xml.flat",
+        "source": "com.example.toolbarmenu.app-main-33:/menu/menu_toolbar.xml"
+    },
+    {
+        "merged": "com.example.toolbarmenu.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.toolbarmenu.app-main-33:/layout/activity_main.xml"
+    }
+]
